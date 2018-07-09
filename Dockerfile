@@ -1,4 +1,4 @@
-FROM sgtsquiggs/alpine.mono:3.4
+FROM sgtsquiggs/alpine.mono:latest
 MAINTAINER sgtsquiggs
 
 # environment settings
