@@ -1,4 +1,4 @@
-[![](https://images.microbadger.com/badges/image/sgtsquiggs/jackett.svg)](https://microbadger.com/images/sgtsquiggs/jackett)
+### No longer maintained! Please use [lsio's image](https://github.com/linuxserver/docker-jackett) instead.
 
 # jackett
 
